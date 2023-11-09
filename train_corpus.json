@@ -1,0 +1,24 @@
+{
+    "train": [
+        {
+            "file_path": "path/to/train_audio_1.wav",
+            "transcript": "the transcription for train_audio_1.wav"
+        },
+        {
+            "file_path": "path/to/train_audio_2.wav",
+            "transcript": "the transcription for train_audio_2.wav"
+        }
+    ],
+    "valid": [
+        {
+            "file_path": "path/to/validation_audio_1.wav",
+            "transcript": "the transcription for validation_audio_1.wav"
+        }
+    ],
+    "test": [
+        {
+            "file_path": "path/to/test_audio_1.wav",
+            "transcript": "the transcription for test_audio_1.wav"
+        }
+    ]
+}
